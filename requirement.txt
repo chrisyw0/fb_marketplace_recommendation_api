@@ -1,3 +1,4 @@
 git+https://github.com/chrisyw0/fb_marketplace_recommendation/
 fastapi
 uvicorn
+emoji
